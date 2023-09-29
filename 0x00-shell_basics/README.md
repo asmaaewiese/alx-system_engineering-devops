@@ -5,3 +5,4 @@ shell masics
 last shell basics
 last basics
 shell basics 
+i had enough of shell 
