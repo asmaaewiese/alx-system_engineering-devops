@@ -4,3 +4,4 @@ my 2-7 basics shell
 shell masics 
 last shell basics
 last basics
+shell basics 
